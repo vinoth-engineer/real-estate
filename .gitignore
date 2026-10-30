@@ -1,0 +1,1 @@
+node_modules/\n.env\ndatabase/dream-estate.sqlite\npublic/uploads/*\n!public/uploads/.gitkeep\n
